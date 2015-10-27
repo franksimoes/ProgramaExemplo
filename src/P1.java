@@ -12,7 +12,7 @@ public class P1 {
     
     String[] TurmaAlunoNomeArray = { 
              "Sam", "Smith", "Robert", "Delgro", "James", 
-             "Gosling", "Vando", "Alfredo", "Mário", "Juvenal",
+             "Gosling", "Vando", "Alfredo", "Mário", "Juvenall",
              "Levi", "Jurema", "Paulo", "Oswaldo", "Valéria",
              "Ricardo", "Raimunda", "Maria", "José", "Apolinário",
              "Anabel", "Janaina", "Aparecida", "Lucia", "Priscila",
